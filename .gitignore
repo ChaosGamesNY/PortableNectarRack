@@ -1,0 +1,6 @@
+*.userprefs
+*.sln
+*.cache
+*.csproj
+*.FileListAbsolute.txt
+*.dll
